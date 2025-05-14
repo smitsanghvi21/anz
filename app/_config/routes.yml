@@ -1,0 +1,7 @@
+---
+Name: chatbotroutes
+After: '#coreroutes'
+---
+SilverStripe\Control\Director:
+  rules:
+    'chatbot/search': 'ChatbotController'
