@@ -22,7 +22,7 @@
         $Layout
         
         <!-- React Chatbot Root -->
-        <div id="chatbot-root"></div>
+      
     </main>
 
     <!-- Load React Bundle - Place at the end of body -->
